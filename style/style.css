@@ -31,6 +31,7 @@ body nav {
     font-family: 'Balsamiq Sans', cursive;
     background-color: #f2eeeeed;
     padding: 10px 60px 10px 60px;
+    margin-right: 3px;
     /* border-color: #f2eeeeed; */
     border-style: none;
     font-size: medium;
